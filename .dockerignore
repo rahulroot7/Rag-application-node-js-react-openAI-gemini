@@ -1,0 +1,7 @@
+node_modules
+uploads
+uploads_test
+.git
+.env
+.env.test
+coverage
