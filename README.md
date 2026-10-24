@@ -54,3 +54,4 @@ flowchart TD
 - **Testing**: Jest + Supertest with `mongodb-memory-server` for instant, isolated, cost-free tests without requiring paid OpenAI credentials.
 
 📸 Project Screenshot
+![Project Screenshot](./Screenshot_2.png)
